@@ -7,9 +7,6 @@ My main interest is Reinforcement Learning, with particular focus on Distributio
 - 2015 - 2018: Bachelor Degree in **Computer Engineering** at [Università degli Studi di Padova](https://www.unipd.it/). 
 
 
-## My Research Interest
-
-
 ## Publications
 2021, **[Re] Hamiltonian Generative Networks**, *Carles Balsells Rodas, Oleguer Canal, Federico Taschin*, Accepted for publication in Re Science C. [OpenReview page](https://openreview.net/forum?id=Zszk4rXgesL) 
 
@@ -17,5 +14,6 @@ My main interest is Reinforcement Learning, with particular focus on Distributio
 ## Non published works and projects
  - 2020 [[Re] Hamiltonian Generative Networks](https://github.com/CampusAI/Hamiltonian-Generative-Networks): Implementation of the paper "[Hamiltonian Generative Networks](https://iclr.cc/virtual_2020/poster_HJenn6VFvB.html)". Learning Hamiltonian dynamics from videos of simulated physical systems. We provided the first open-source implementation of the algorithm, reproduced the original experiments, performed additional experiments on new environments, and proposed a baseline comparison.
 - 2020 [Self-learned vehicle control using PPO](https://github.com/fedetask/my-works/tree/main/self-driving): Learn to control a car and a drone in simulation using Reinforcement Learning (PPO). We perform path planning on the visibility graph and make the vehicles learn to follow the waypoints as fast as possible. Our code won the competition against other 15 groups.
+- 2020 [Neural Network Surgery in Deep Reinforcement Learning](https://campusai.github.io/experiments/nn_surgery): Extensive analysis and evaluation of performing weight transfer in Deep RL models when the model changes, for example, when actions, observations, or hidden layers are added. This avoids re-training a model when the we apply modifications to it, resulting in better performances and less training time.  
 - 2019 [[Re] Gaussian Process Latent Variable Model](https://github.com/OleguerCanal/GPLVM): Implementation of the paper [Gaussian process models for visualisation of high dimensional data](https://proceedings.neurips.cc/paper/2003/file/9657c1fffd38824e5ab0472e022e577e-Paper.pdf). We implement the GPLVM model and evaluate it on the paper's datasets plus some additional ones. We perform an extensive comparison of the model against other dimensionality reduction techniques such as PCA and Kernel PCA.
 - 2019 [Cooperative Multi-Agent AI](https://github.com/fedetask/my-works/tree/main/cooperative-agents): We deal with multi-agent tasks such as search, vehicle routing, and formation sweeping. We exploit a combination of classic spanning tree, routing, and formation algorithms and improve on them with efficient evolutionary algorithms. Overall, our group performed best on the 4 benchmark tasks among the 12 participant groups. 
