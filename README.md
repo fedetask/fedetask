@@ -11,7 +11,7 @@ My main interest is Reinforcement Learning, with particular focus on Distributio
 2021, **[Re] Hamiltonian Generative Networks**, *Carles Balsells Rodas, Oleguer Canal, Federico Taschin*, Accepted for publication in Re Science C. [OpenReview page](https://openreview.net/forum?id=Zszk4rXgesL) 
 
 
-## Non published works and projects
+## Selected works and projects
  - 2020 [[Re] Hamiltonian Generative Networks](https://github.com/CampusAI/Hamiltonian-Generative-Networks): Implementation of the paper "[Hamiltonian Generative Networks](https://iclr.cc/virtual_2020/poster_HJenn6VFvB.html)". Learning Hamiltonian dynamics from videos of simulated physical systems. We provided the first open-source implementation of the algorithm, reproduced the original experiments, performed additional experiments on new environments, and proposed a baseline comparison.
 - 2020 [Self-learned vehicle control using PPO](https://github.com/fedetask/my-works/tree/main/self-driving): Learn to control a car and a drone in simulation using Reinforcement Learning (PPO). We perform path planning on the visibility graph and make the vehicles learn to follow the waypoints as fast as possible. Our code won the competition against other 15 groups.
 - 2020 [Neural Network Surgery in Deep Reinforcement Learning](https://campusai.github.io/experiments/nn_surgery): Extensive analysis and evaluation of performing weight transfer in Deep RL models when the model changes, for example, when actions, observations, or hidden layers are added. This avoids re-training a model when the we apply modifications to it, resulting in better performances and less training time.  
