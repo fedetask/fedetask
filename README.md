@@ -8,7 +8,7 @@ My main interest is Reinforcement Learning, with particular focus on Distributio
 
 
 ## Publications
-2021, **[Re] Hamiltonian Generative Networks**, *Carles Balsells Rodas, Oleguer Canal, Federico Taschin*, Accepted for publication in Re Science C. [OpenReview page](https://openreview.net/forum?id=Zszk4rXgesL) 
+2021, **[Re] Hamiltonian Generative Networks**, *Carles Balsells Rodas, Oleguer Canal, Federico Taschin*, [Re Science C 7, 2, \#18](http://rescience.github.io/bibliography/Balsells_Rodas_2021.html) 
 
 
 ## Selected works and projects
